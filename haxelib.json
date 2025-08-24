@@ -1,6 +1,6 @@
 {
         "name": "Sphis-CommandLine-Argument",
-        "url": "https://github.com/sphis-sinco/sphis-commandline-argument/",
+        "url": "https://github.com/sphis-sinco/Sphis-CommandLine-Argument/",
         "license": "MIT",
         "tags": ["Sphis", "CommandLine", "utility", "haxe"],
         "description": "This library is to make the addition of command line arguments in haxe projects easier through JSON",
